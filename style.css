@@ -1,0 +1,160 @@
+body{
+    background-color: rgba(245, 232, 203, 0.626);
+}
+.navbar a {
+    font-size: 25px;
+    color: black;
+  }
+  
+  .navbar a span {
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 2.5rem;
+    color: black;
+  
+  }
+  
+  .navbar h1 {
+  
+    word-spacing: 0.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    color: black;
+    margin-left:35%;
+    margin-top: -55px;
+  }
+  
+  .navbar img {
+    width: 20%;
+    margin-left: 10%;
+    height: 10%;
+    margin-top: 3%;
+    color: black;
+  }
+  .navbar h6 {
+  
+    word-spacing: 0.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: black;
+    margin-left:70%;
+    margin-top:-45px;
+  }
+  .navbar h5{
+    word-spacing: 0.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: black;
+    margin-left:75%;
+    margin-top:-55px;
+  }
+  .navbar h4{
+  
+    word-spacing: 0.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: black;
+    margin-left:80%;
+    margin-top:-45px;
+  }
+  .home{
+    text-align: center;
+    word-spacing: 0.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgba(255, 114, 7, 0.689);
+    margin-top: 55px;
+  }
+  .home p{
+    text-align: center;
+    word-spacing: 0.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:white;
+   
+  }
+  .card{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+
+.card{
+    font-family:'Times New Roman', Times, serif;
+    width: 50;
+    height:180%;
+    display: inline-block;
+    margin: 20px 30px;
+    margin-top: 30px;
+    padding: 10px 10px;
+    overflow: hidden;
+    background: #37b2ff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.89);
+    flex-direction: column;
+  }
+  .card h2 {
+    text-align: center;
+    font-family:'Times New Roman',Times, serif;
+    font-size: 30px;
+  }
+  .cards{
+    font-family:'Times New Roman', Times, serif;
+    width: 30%;
+    height:150%;
+    margin: 20px 10px;
+    margin-top: 30px;
+    padding: 10px 10px;
+    overflow: hidden;
+    background: #37b2ff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.89);
+    flex-direction: column;
+  }
+  .cards h1{
+    text-align: center;
+    color: rgba(255, 114, 7, 0.689);
+    font-family:'Times New Roman', Times, serif;
+  }
+  .cards h4{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(250, 250, 250);
+    font-family:'Times New Roman', Times, serif;
+  }
+  .cards p{
+    text-align: center;
+    font-size: 1.2rem;
+    color: rgb(250, 250, 250);
+    font-family:'Times New Roman', Times, serif;
+  }
+  .cardS{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1.5rem;
+    width: 100%;
+    height:180%;
+    display: inline-block;
+    margin: 20px 30px;
+    margin-top: 30px;
+    padding: 10px 10px;
+    overflow: hidden;
+    background: rgba(255, 114, 7, 0.689);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.89);
+    flex-direction: column;
+  }
+  .cardS p{
+    text-align: center;
+    font-size: 1.2rem;
+    color: rgb(1, 1, 1);
+    font-family:'Times New Roman', Times, serif;
+    
+  }
+  .join h1{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgba(255, 114, 7, 0.689);
+    font-family:'Times New Roman', Times, serif;
+
+  }
+  
